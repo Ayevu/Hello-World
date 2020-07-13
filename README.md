@@ -1,2 +1,2 @@
 # Hello-World
-There is a first timenfor everything
+There is a first time for everything
